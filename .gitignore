@@ -6,6 +6,12 @@
 # See: https://github.com/github/gitignore/tree/main/Global
 #
 .utmp/
+
+# Local editor, macOS, and profiler files
+.DS_Store
+/.vscode/
+/[Pp]rofilerCaptures/
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
